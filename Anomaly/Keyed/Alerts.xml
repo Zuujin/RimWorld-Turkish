@@ -20,32 +20,32 @@ Send your warden to suppress these entities, or enable automatic suppression usi
 You can have a basic and an advanced research project selected at the same time.
 (Click to open the research menu.) -->
 
-  <CreepJoinerTimeout>Visitor ignored</CreepJoinerTimeout>
-  <CreepJoinerTimeoutDesc>The following visitors feel ignored and are becoming increasingly upset</CreepJoinerTimeoutDesc>
-  <CreepJoinerTimeoutDescAppended>Select a colonist and right-click on the visitor.\n\nAct quickly... they don't like being ignored.</CreepJoinerTimeoutDescAppended>
+  <CreepJoinerTimeout>Ziyaretçi göz ardı edildi</CreepJoinerTimeout>
+  <CreepJoinerTimeoutDesc>Ziyaretçiler göz ardı edildiklerini düşünüyorlar ve umutsuzluğa kapılıyorlar</CreepJoinerTimeoutDesc>
+  <CreepJoinerTimeoutDescAppended>Bir kolonist seçin ve ziyaretçiye sağ tıklayın.\n\nAct Çabuk!.. görmezden gelinmekten hoşlanmıyorlar.</CreepJoinerTimeoutDescAppended>
 
-  <Alert_UndercaveUnstable>Undercave unstable</Alert_UndercaveUnstable>
-  <Alert_UndercaveUnstableDesc>The undercave has become unstable and will collapse soon.\n\nGet your colonists out before it's too late.</Alert_UndercaveUnstableDesc>
+  <Alert_UndercaveUnstable>Yeraltı mağarası dengesiz</Alert_UndercaveUnstable>
+  <Alert_UndercaveUnstableDesc>Yeraltı mağarası dengesiz hale geldi ve yakında çökecek.\n\nKolonisti çok geç olmadan dışarı çıkar!</Alert_UndercaveUnstableDesc>
 
-  <Alert_CultistPsychicRitual>Cultist psychic ritual</Alert_CultistPsychicRitual>
-  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} has started to perform {RITUAL_definite} ritual. If you don't interrupt {INVOKER_objective}, the consequences could be dire.</Alert_CultistPsychicRitualDesc>
+  <Alert_CultistPsychicRitual>Tarikatçı psişik ritüel</Alert_CultistPsychicRitual>
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} performans sergilemeye başladı {RITUAL_definite} ritüel eğer müdahale etmezsen {INVOKER_objective}, sonuçları korkunç olabilir.</Alert_CultistPsychicRitualDesc>
 
-  <AlertMeatHunger>Ghoul starvation</AlertMeatHunger>
-  <AlertMeatHungerDesc>These ghouls hunger for raw meat</AlertMeatHungerDesc>
-  <AlertMeatHungerDescAppended>They may attack if they're not fed soon. Get them some meat.</AlertMeatHungerDescAppended>
+  <AlertMeatHunger>Hortlak açlığı</AlertMeatHunger>
+  <AlertMeatHungerDesc>Bu hortlaklar taze çiğ ete açlık duyuyor</AlertMeatHungerDesc>
+  <AlertMeatHungerDescAppended>TYakında beslenmezlerse saldırabilirler. Onlara biraz et bul.</AlertMeatHungerDescAppended>
   
-  <AlertEmergingPitGate>Pit gate opening</AlertEmergingPitGate>
-  <AlertEmergingPitGateDesc>The ground is collapsing in on itself. A pit gate will soon form.</AlertEmergingPitGateDesc>
+  <AlertEmergingPitGate>oyuk kapısı açılıyor</AlertEmergingPitGate>
+  <AlertEmergingPitGateDesc>Zemin kendi kendine çöküyor. Yakında bir oyuk kapısı oluşacak.</AlertEmergingPitGateDesc>
 
-  <Alert_InsufficientContainment>Insufficient containment</Alert_InsufficientContainment>
-  <Alert_InsufficientContainmentDesc>The following entities are being held in rooms that do not meet their minimum containment strength</Alert_InsufficientContainmentDesc>
-  <Alert_InsufficientContainmentDescAppended>They will escape soon. Build stronger walls, doors, or other containment devices to hold them.</Alert_InsufficientContainmentDescAppended>
+  <Alert_InsufficientContainment>Yetersiz Muhafaza!</Alert_InsufficientContainment>
+  <Alert_InsufficientContainmentDesc>bu varlıklar minimum muhafaza güçlerini karşılamayan odalarda tutuluyor!</Alert_InsufficientContainmentDesc>
+  <Alert_InsufficientContainmentDescAppended>Yakında kaçacaklar. Bunları tutmak için daha güçlü duvarlar, kapılar veya diğer muhafaza cihazları inşa edin.</Alert_InsufficientContainmentDescAppended>
 
-  <AlertHoldingPlatform>Holding platforms needed</AlertHoldingPlatform>
-  <AlertHoldingPlatformDesc>Build holding platforms or place holding spots to contain and study captured entities.</AlertHoldingPlatformDesc>
+  <AlertHoldingPlatform>tutma platformlarına ihtiyaç var.</AlertHoldingPlatform>
+  <AlertHoldingPlatformDesc>Yakalanan varlıkları kontrol altına almak ve incelemek için tutma platformları inşa edin veya tutma noktaları yerleştirin.</AlertHoldingPlatformDesc>
 
-  <AlertCubeWithdrawal>Cube withdrawal</AlertCubeWithdrawal>
-  <AlertCubeWithdrawalDesc>The following people are suffering from cube withdrawal</AlertCubeWithdrawalDesc>
+  <AlertCubeWithdrawal>Çekim noktası</AlertCubeWithdrawal>
+  <AlertCubeWithdrawalDesc>bu kişiler çekim noktasından  muzdariptir</AlertCubeWithdrawalDesc>
   <AlertCubeWithdrawalDescAppended>Their skin itches and their mind races, craving closeness to the golden cube. Their symptoms will worsen until they can play with the cube.\n\nEnsure that they have free time and can reach the golden cube.</AlertCubeWithdrawalDescAppended>
 
   <AlertDigestion>Devourer digestion</AlertDigestion>
